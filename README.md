@@ -1,0 +1,1 @@
+# n8n-daily-email-summary-bot
